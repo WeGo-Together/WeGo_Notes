@@ -10,8 +10,8 @@
 
 ### 🔗 관련 자료
 - 🎨 **Figma**: [디자인 링크 주소]
-- 📐 **Type Schema**: [스키마 문서 주소]
-- 📄 **요구사항 명세서**: [요구사항 문서 주소]
+- [[📐 타입 스키마(작성중)]](https://www.notion.so/2b7ffe793a418079b71be0b53ce4647b?source=copy_link)
+- [[📄 요구사항 명세서(작성중)]](https://www.notion.so/2b7ffe793a4180e89567d5c5bd5fb9c4?source=copy_link)
 
 ### 🚀 배포
 - [[🚀 웹 사이트]](https://new-project-final.link/)
