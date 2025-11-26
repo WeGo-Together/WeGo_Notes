@@ -8,7 +8,7 @@
 - [[📝 FrontEnd 회의록]](https://github.com/WeGo-Together/WeGo_FrontEnd_Notes)
 - [[📝 전체 회의록]](https://github.com/WeGo-Together/WeGo_Notes)
 
-### 📝 관련 자료
+### 🔗 관련 자료
 - 🎨 **Figma**: [디자인 링크 주소]
 - 📐 **Type Schema**: [스키마 문서 주소]
 - 📄 **요구사항 명세서**: [요구사항 문서 주소]
